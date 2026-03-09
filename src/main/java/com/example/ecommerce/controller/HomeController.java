@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
 
 	public String demo() {
+		// check commit changes
 		return "index";
 	}
 
